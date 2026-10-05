@@ -1,0 +1,9 @@
+langgraph>=0.2.0
+langgraph-supervisor>=0.0.5
+langchain-openai>=0.2.0
+langchain-core>=0.3.0
+pubchempy>=1.0.4
+rdkit
+python-dotenv>=1.0.0
+langchain-groq
+streamlit>=1.30.0

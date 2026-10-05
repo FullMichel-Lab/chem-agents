@@ -1,0 +1,28 @@
+﻿# Environnement virtuel
+venv/
+env/
+.venv/
+
+# Secrets et configuration locale
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
